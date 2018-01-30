@@ -48,4 +48,4 @@ Por favor contribua com o projeto e nos ajude a criar um robô mais robusto. Se 
 5. Submit a pull request :D
 
 ## Créditos
-Esse projeto não teria sido possível sem essa excelente biblioteca: [CCXT – CryptoCurrency eXchange Trading Library](https://github.com/kroitor/ccxt)
+Esse projeto não teria sido possível sem essa excelente biblioteca: [CCXT – CryptoCurrency eXchange Trading Library](https://github.com/kroitor/ccxt)# crypto-arbitrage-th
